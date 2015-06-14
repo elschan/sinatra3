@@ -17,6 +17,7 @@ ActiveRecord::Schema.define(version: 20150613220839) do
     t.string "title"
     t.string "author"
     t.string "content"
+    t.string "url"
   end
 
 end
